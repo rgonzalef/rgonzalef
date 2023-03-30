@@ -1,3 +1,7 @@
+<div align="center">
+<img src="programing2.png" alt="start-banner">
+</div>
+
 # Hello, my name is Raul Gonzalez 👋
 ### Javascript Developer | Electronic Engineer | NodeJS - ReactJS | Backend
 
