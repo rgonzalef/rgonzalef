@@ -3,7 +3,7 @@
 </div>
 
 # Hello, my name is Raul Gonzalez 👋
-### Javascript Developer | Electronic Engineer | NodeJS - ReactJS | Backend
+### Javascript Developer |  NodeJS - ReactJS | Backend | Golang
 
 ## About me:
 I have been an Electronic Engineer for more than 15 years.
